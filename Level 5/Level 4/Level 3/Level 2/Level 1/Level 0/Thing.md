@@ -1,0 +1,1 @@
+The most general term.  Everything is a "thing".

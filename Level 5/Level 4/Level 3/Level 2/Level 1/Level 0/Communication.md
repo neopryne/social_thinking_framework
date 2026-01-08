@@ -1,0 +1,3 @@
+The exchange of [[Meaning]] between [[Mind]]s.  You can never be sure the message you meant to send has been received, unless you spend eternity doing so.
+
+You can see this if you imagine a version of [[The Two Generals' Problem]]  where instead of arriving at the same physical location, you are trying to arrive at the same conclusion.  The two can send messages back and forth forever, but there are always other possibilities for why things look correct, and so they can never be sure they are on the same page.

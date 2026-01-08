@@ -1,0 +1,1 @@
+A person is a [[mind]] that recognizes itself as a person.  There's more to it than that but I'm out of time.

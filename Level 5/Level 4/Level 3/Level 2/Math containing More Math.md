@@ -1,0 +1,1 @@
+I think this is a consistent way of looking at the universe.  I still don't get how things go from being [[timeless]] to being [[timeful]], but it feels like this model helps understanding that.

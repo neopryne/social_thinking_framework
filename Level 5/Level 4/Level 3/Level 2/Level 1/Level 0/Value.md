@@ -1,0 +1,1 @@
+An overloaded term.  There are "values" which are more like properties a thing has, and there are "values" that are things minds care about.

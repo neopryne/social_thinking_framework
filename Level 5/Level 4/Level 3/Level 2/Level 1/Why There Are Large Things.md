@@ -1,0 +1,1 @@
+Because if you can draw a circle around something, there's something outside that circle.  So for any definable level of [[scale]], there is a level of scale above it.  And there are probably minds that live at that scale somewhere.

@@ -1,0 +1,3 @@
+A concept with a confusing, and thus bad, name.  Dialectics is a way of looking at the world through changes, in particular how things become their opposites.  Dialectical Materialism (DM) is a viewpoint that asserts that everything that exists is [[Physical]] and thus changes.
+
+⁂It is true that everything in the physical world changes, but I do not currently accept that things cannot exist outside of time. -Lim

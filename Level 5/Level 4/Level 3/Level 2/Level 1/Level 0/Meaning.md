@@ -1,0 +1,1 @@
+Meaning is a concept invented by [[mind]]s to talk about themselves and the world they live in.  As such, meaning has no meaning outside of what minds define.

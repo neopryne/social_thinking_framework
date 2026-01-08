@@ -1,0 +1,1 @@
+An attribute of a thing.  A property of a thing is some description of that thing.  Commonly agreed on properties include mass, velocity, and spin.  Properties of medium contention include [monentary|exchange] value.  Properties of high contention include desirability.

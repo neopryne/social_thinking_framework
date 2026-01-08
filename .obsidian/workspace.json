@@ -8,65 +8,331 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ed8f71e3785fa7b",
+            "id": "baec14267814cebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 1/UNRELIGION/Welcome.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Physical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Physical"
             }
           },
           {
-            "id": "f2072476e1dc0082",
+            "id": "80e91ffca5d46130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Dialectical Materialism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Dialectical Materialism"
             }
           },
           {
-            "id": "d497eb8083d9715d",
+            "id": "59de98bb37ff1271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 0/RAW STRUCTURE/CORE OF RE.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/How to Write This Document/How to Write This Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORE OF RE"
+              "title": "How to Write This Document"
+            }
+          },
+          {
+            "id": "c6af21382291f219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/How to Write This Document/How to Write This Document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Write This Document"
+            }
+          },
+          {
+            "id": "d8b986f24d49c3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/God..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "God."
+            }
+          },
+          {
+            "id": "20b829b60c5bafaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Opposite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opposite"
+            }
+          },
+          {
+            "id": "f4ab1f45e914bbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/The Possible Doctrines of Nethys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Possible Doctrines of Nethys"
+            }
+          },
+          {
+            "id": "ef19982bf798e876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Timeless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeless"
+            }
+          },
+          {
+            "id": "fc0f70380dfe320a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Central Dogma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Central Dogma"
+            }
+          },
+          {
+            "id": "a2804cbc02558194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Community.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Community"
+            }
+          },
+          {
+            "id": "b32ebe96a7b68748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Thought.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thought"
+            }
+          },
+          {
+            "id": "6e098b7bcd8ff7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Community.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Community"
+            }
+          },
+          {
+            "id": "97e7b344ee34187c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/How to Read This Document/Structure Brief.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure Brief"
+            }
+          },
+          {
+            "id": "e858dc972420fadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Writing Programs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Programs"
+            }
+          },
+          {
+            "id": "1e9dfcd84fbeef38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/The Two Generals' Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Two Generals' Problem"
+            }
+          },
+          {
+            "id": "da5bcb603afa1c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Energy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Energy"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       },
       {
-        "id": "a8041fe84019e692",
-        "type": "tabs",
+        "id": "aa6c3b4c6869d95a",
+        "type": "split",
         "children": [
           {
-            "id": "dce23c3fd2db554e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "a8041fe84019e692",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b2af3d0a6d2d855",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/God..md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "God."
+                }
+              },
+              {
+                "id": "d689c2a5acaeb17d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Information.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Information"
+                }
+              },
+              {
+                "id": "7dbc13e063e69725",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Physical.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Physical"
+                }
+              },
+              {
+                "id": "615d95afea13a80b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Paradox.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Paradox"
+                }
+              },
+              {
+                "id": "6dc79dd8c840b967",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Truth, Absolute"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "d9c40bc90ed6d075",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "383cda68375e9648",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -139,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 0/RAW STRUCTURE/CORE OF RE.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CORE OF RE"
+              "title": "Backlinks for Truth, Absolute"
             }
           },
           {
@@ -158,12 +424,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 0/RAW STRUCTURE/CORE OF RE.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CORE OF RE"
+              "title": "Outgoing links from Truth, Absolute"
             }
           },
           {
@@ -201,13 +467,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 0/RAW STRUCTURE/CORE OF RE.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CORE OF RE"
+              "title": "Outline of Truth, Absolute"
             }
           }
         ]
@@ -228,14 +494,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "d497eb8083d9715d",
+  "active": "6dc79dd8c840b967",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Level 0/RAW STRUCTURE/CORE OF RE.md",
-    "Level 0/RAW STRUCTURE",
-    "Level 1/UNRELIGION",
-    "Level 1",
-    "Level 1/UNRELIGION/Welcome.md",
-    "Level 0"
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Power.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Scale.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/The Formless Void.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Real.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Paradox.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Reality.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Physical.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Person.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Energy.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Information.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Confidence.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Incompleteness.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/Godel's Incompleteness Therom.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/The Two Generals' Problem.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Model.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Mind.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Why There Are Large Things.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Tautology.md",
+    "Level 5/Level 4/Level 3/Why Hyperlinks are Important.md",
+    "Level 5/Level 4/Level 3/Level 2/Use Value.md",
+    "Level 5/Level 4/Level 3/Level 2/Math containing More Math.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/GOD.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Dialectical Materialism.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Terminology.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/God..md",
+    "Level 5/Level 4/Level 3/Level 2/How to Write This Document",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION",
+    "New Text Document.txt",
+    "Level 5/Level 4/Level 3/Level 2/How to Read This Document",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/New folder",
+    "Level 5/Level 4/Level 3/Level 2/Level 1",
+    "Level 5/Level 4/Level 3/Level 2/New folder",
+    "Level 5/Level 4/Level 3/Level 2"
   ]
 }

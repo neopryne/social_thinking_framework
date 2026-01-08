@@ -1,0 +1,1 @@
+They connect things in a [[network]].  It's particularly nice if you have a visualizer for the graph, like Obsidian does.

@@ -1,0 +1,1 @@
+That which is [[real]].  Includes both [[timeful]] and [[timeless]] reality.

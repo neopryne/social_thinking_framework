@@ -1,0 +1,1 @@
+Things at very different scales do not interact strongly.  A wave that is many orders of magnitude different in frequency than another will hardly influence each other at all.  From each of their perspectives, they look basically the same as if they were alone.

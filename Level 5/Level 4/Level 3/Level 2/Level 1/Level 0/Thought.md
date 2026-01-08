@@ -1,0 +1,1 @@
+Thought is the movement of [[Information]] through the phase space of information, or information space.

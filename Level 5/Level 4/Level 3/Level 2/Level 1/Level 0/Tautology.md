@@ -1,0 +1,1 @@
+Things which are definitionally self-consistent.  Things which are true because they are true.  

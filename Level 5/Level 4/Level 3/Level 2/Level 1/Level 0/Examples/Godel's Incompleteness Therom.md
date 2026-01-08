@@ -1,0 +1,3 @@
+A clever way of showing that any decently complicated system cannot reach all truths.  It works by constructing a statement meaning, "This statement is unproveable in the system it is written in.".  Once you have that, you have a statement which is either true, in which case it is a truth which is unreachable, or it is false.  If it is false, then it can be proved true, and so it is true.  Thus, as both states collapse to true when evaluated, it is true.
+
+https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems

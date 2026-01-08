@@ -1,0 +1,1 @@
+The ability to enact one's intent upon the world.  To shape reality.  To take what is inside your mind and make it into a realized future state that is acknowledged by those around you.
