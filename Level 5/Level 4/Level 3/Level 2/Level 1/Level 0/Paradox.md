@@ -1,1 +1,1 @@
-Things that are self-inconsistent, or things which have no reason behind them, they just are.
+Things that are self-inconsistent, or things which have no reason behind them, they just are.  [[Opposite]] of [[Tautology]].

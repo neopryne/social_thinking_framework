@@ -1,1 +1,3 @@
-An overloaded term.  There are "values" which are more like properties a thing has, and there are "values" that are things minds care about.
+A kind of [[Meaning]] that represents a [[mind]]'s appreciation of a [[thing]].  How much you care about something, in whatever fashion.
+
+For attributes of things, see [[Property]].
