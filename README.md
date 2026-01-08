@@ -10,4 +10,4 @@ This document uses git as its version control software to track changes and the 
 How we got somewhere is important information, and I posit that any document worth having should document its entire history, given
 that this is comparatively cheap now.
 
-On top of this, we can take advantage of github for distribution, but that is outside the scope of this document.
+On top of this, we can take advantage of github for distribution.  ⁂Lim's version is online at https://github.com/neopryne/social_thinking_framework.  See [[How to Read This Document]] for more info.

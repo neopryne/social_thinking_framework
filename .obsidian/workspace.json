@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Community.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Read This Document"
+              "title": "Community"
+            }
+          },
+          {
+            "id": "290bea47dcb1c0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/GOD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GOD"
+            }
+          },
+          {
+            "id": "e05622e878794824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "aa6c3b4c6869d95a",
@@ -87,37 +115,9 @@
                   "icon": "lucide-file",
                   "title": "Physical"
                 }
-              },
-              {
-                "id": "615d95afea13a80b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Paradox.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Paradox"
-                }
-              },
-              {
-                "id": "6dc79dd8c840b967",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Truth, Absolute"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "d9c40bc90ed6d075",
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Read This Document"
+              "title": "Backlinks for Communication"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Read This Document"
+              "title": "Outgoing links from Communication"
             }
           },
           {
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
+                "file": "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Communication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Read This Document"
+              "title": "Outline of Communication"
             }
           }
         ]
@@ -298,35 +298,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "da5bcb603afa1c47",
+  "active": "e05622e878794824",
   "lastOpenFiles": [
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/The Two Generals' Problem.md",
-    "Level 5/Level 4/Level 3/Level 2/Writing Programs.md",
-    "Level 5/Level 4/Level 3/Level 2/How to Read This Document/Structure Brief.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Community.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Thought.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Central Dogma.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Timeless.md",
-    "Level 5/Level 4/Level 3/The Possible Doctrines of Nethys.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Opposite.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/God..md",
-    "Level 5/Level 4/Level 3/Level 2/How to Write This Document/How to Write This Document.md",
-    "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/The Formless Void.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Paradox.md",
-    "Level 5/Level 4/Level 3/Level 2/Use Value.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Value.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Reality.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Tautology.md",
     "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Energy.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Incompleteness.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth, Absolute.md",
-    "LICENSE",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Truth.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Power.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Scale.md",
-    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Real.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Communication.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/The Two Generals' Problem.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples/Godel's Incompleteness Therom.md",
+    "Level 5/Level 4/Level 3/Level 2/How to Write This Document/How to Write This Document.md",
+    "Level 5/Level 4/Level 3/Level 2/How to Read This Document/The Unbreakable Rule.md",
+    "Level 5/Level 4/Level 3/Level 2/How to Read This Document/Structure Brief.md",
+    "Level 5/Level 4/Level 3/Level 2/How to Read This Document/How to Read This Document.md",
+    "README.md",
+    "Level 5/Level 4/Level 3/Why Hyperlinks are Important.md",
+    "Level 5/Level 4/Level 3/The Possible Doctrines of Nethys.md",
+    "Level 5/Level 4/Level 3/Level 2/Writing Programs.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Community.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Culture.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Rescue Corps.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Dialectical Materialism.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Principles of Language.md",
+    "Level 5/Level 4/Level 3/Reproduction Instructions.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/The Cool War.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/GOD.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Central Dogma.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Community Activity.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION/Terminology.md",
     "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Physical.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Thought.md",
+    "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Timeless.md",
+    "LICENSE",
     "Level 5/Level 4/Level 3/Level 2/How to Write This Document",
     "Level 5/Level 4/Level 3/Level 2/Level 1/Level 0/Examples",
     "Level 5/Level 4/Level 3/Level 2/Level 1/UNRELIGION",

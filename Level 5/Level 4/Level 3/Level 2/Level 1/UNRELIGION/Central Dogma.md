@@ -2,7 +2,7 @@
 
 which is to say,
 
-* \[Comprehend] \[Reality]
+* \[Comprehend] \[[[Reality]]]
 * \[Enact] Your \[Will]
 	* to build a world you deem good.
 	* splorble
