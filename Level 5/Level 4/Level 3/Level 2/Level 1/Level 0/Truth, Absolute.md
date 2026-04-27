@@ -10,3 +10,5 @@ We can't be sure of it because it is impossible for a mind to be certain that it
 https://www.lesswrong.com/posts/KZbhXqCtcWA58D8nz/fundamental-uncertainty-chapter-1-how-can-we-know-what-s
 https://en.wikipedia.org/wiki/KK_thesis
 https://www.lesswrong.com/posts/2r7kp9QSNNkF2Lpd7/knowing-what-you-know
+
+⁂I don't like the naming of this section, This should maybe be moved to a section on Absolute? -Lim

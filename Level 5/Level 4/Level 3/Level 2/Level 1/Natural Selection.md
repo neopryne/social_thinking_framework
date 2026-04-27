@@ -1,0 +1,1 @@
+Natural Selection is the first level of reality steering [itself|you].  It is blindly moving forwards, and taking only the results that persist after iterating.  The driving force behind Natural Selection is 

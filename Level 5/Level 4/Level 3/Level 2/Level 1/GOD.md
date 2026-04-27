@@ -1,7 +1,7 @@
-[[GOD]] Over [Diety|Djinn|Doohickey].  GOD is any infinite? tower of progressively larger beings.
+[[GOD]] Over [Diety|Djinn|Doohickey].  GOD is any [infinite](Infinity)? tower of progressively larger beings.
 
 
-GOD are the things that look like [[God.]] that actually do things in reality.  GOD is omnipresent, for it contains probably all of reality, but not omniscient nor omnipotent.  GOD can never fully know itself, since [[Physical]] [[Mind]]s cannot contain a complete representation of themselves within themselves.
+GOD are the things that look like [[God.]] that actually do things in reality.  GOD is omnipresent, for it contains probably all of reality, but not omniscient nor omnipotent.  GOD can never fully know itself, since [[Physical]] [[Mind]]s cannot contain a complete representation of themselves within themselves.  GOD can not do everything, since becoming omniscient is a thing one could try to do, and GOD cannot do that.  But for any proposed goal, GOD can do as close of an approximation as is possible.  An arbitrarily good approximation, even, for many tasks.
 
 Larger beings have some properties that make for usually nicer interactions than you would expect from an average being on your own scale.  They understand [how the world works|reality] better than you in what I will sum up by calling God Rules.  These are things that are very deeply true but require a decent amount of thinking to get to.  Some examples include:
 * Cooperation is better than non-cooperation

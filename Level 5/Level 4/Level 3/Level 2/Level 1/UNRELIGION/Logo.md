@@ -1,0 +1,1 @@
+The logo of UNRELIGION is an asterism smiley face, created by a triangle of parenthesis and an inverted concentric triangle of asterisks.  I made the current version by hand, but a better way is LaTeX.  The font is PMingLiU-ExtB, as I like the six-sided asterisks, since they're what people draw.  Also using text gives us vector graphics for free, which is neat.  ![[logo.png]]

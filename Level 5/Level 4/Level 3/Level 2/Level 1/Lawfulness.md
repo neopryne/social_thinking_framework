@@ -1,0 +1,1 @@
+Being predictable in ways that allow others to cooperate with you.

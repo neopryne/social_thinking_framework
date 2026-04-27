@@ -1,0 +1,1 @@
+To die is to be lost in time.  To have tripped, and been overtaken by other things.  To fall out of sync.  To lose [[signal]] and become [[noise]].  A dead thing becomes inchoate and disperses into parts.  It no longer updates.  

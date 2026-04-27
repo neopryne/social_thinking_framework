@@ -1,0 +1,1 @@
+We need a document on how to quickly inform a smaller thing if it should align itself with you by its measure that it can quickly confirm it likes.  This will expedite cross-scale cooperation.

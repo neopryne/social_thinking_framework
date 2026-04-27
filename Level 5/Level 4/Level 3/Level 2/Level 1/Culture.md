@@ -1,0 +1,1 @@
+The patterns of behavior of a [[Community]].
